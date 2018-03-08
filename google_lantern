@@ -1,0 +1,6 @@
+https://github.com/getlantern/lantern
+something like  lantern-installer-beta-64-bit.deb
+ sudo apt install gdebi-core
+sudo gdebi lantern-installer-beta-64-bit.deb
+ run lantern
+http://www.cs.newpaltz.edu/~pletcha/NET_PY/the-protocols-tcp-ip-illustrated-volume-1.9780201633467.24290.pdf
